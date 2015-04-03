@@ -3,7 +3,7 @@ http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/
 
 Use:
 change background: url():
-<div class="resp"
+< div class="resp"
     img-array="{
                 800:'images/banner_large.jpg',
                 500:'images/banner_medium.jpg',
@@ -13,7 +13,7 @@ change background: url():
 $('.resp').responsibleImages({isImg: false, retinaPrefix: '@2x'});
 
 change img src:
-<img class="resp2"
+< img class="resp2"
     src="filename"
     img-array="{
                 800:'images/banner_large.jpg',
