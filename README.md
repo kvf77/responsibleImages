@@ -1,4 +1,4 @@
-#Responsible Images.
+#Responsible Images (jQuery plugin)
 
 In these examples, a DIV images placed in a CSS style background: url (), and at IMG, respectively, we use the attribute SRC, as it should be.
 
