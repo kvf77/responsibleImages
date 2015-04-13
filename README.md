@@ -38,6 +38,7 @@ options: {
 }
 ```
 
-##russian dicumentation [http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/](http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/)
+russian dicumentation [http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/](http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/)
+
 ##Author        Kuzma Feskov <kfeskov@gmail.com>
 ##Copyright © 2015, Kuzma Feskov
