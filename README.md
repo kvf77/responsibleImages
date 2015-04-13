@@ -1,7 +1,8 @@
 #Responsible Images.
 
 ##Use:
-change background: url():
+
+###change background: url():
 
 ```html
 <div class="resp"
@@ -17,7 +18,7 @@ change background: url():
 $('.resp').responsibleImages({isImg: false, retinaPrefix: '@2x'});
 ```
 
-##change img src:
+###change img src:
 
 ```html
 <img class="resp2"
@@ -41,4 +42,4 @@ options: {
 russian dicumentation [http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/](http://www.sesmikcms.ru/blog/read/adaptivnye-izobrazhenija-responsive-images/)
 
 ##Author        Kuzma Feskov <kfeskov@gmail.com>
-##Copyright © 2015, Kuzma Feskov
+##Copyright Â© 2015, Kuzma Feskov
